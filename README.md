@@ -1,8 +1,8 @@
 ## Hi there 👋
 # Python md
 <h1>Python html ile</h1>
-<h1 style ="color:red">Python1 hmtl ile</h1>
-<h2 style = "color:blue">Python1 html ile</h2>
+<h1 style="color:red">Python1 hmtl ile</h1>
+<h2 style="color:blue">Python1 html ile</h2>
 <img height="100" src="https://beecrowd.com/wp-content/uploads/2024/04/2022-07-19-Melhores-cursos-de-Python.jpg"/>
 <p>Hedef uygulama</p>
 <!--
