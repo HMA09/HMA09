@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋...
 # Python md
 <h1>Python html ile</h1>
 <h1 style="color:red">Python1 hmtl ile</h1>
