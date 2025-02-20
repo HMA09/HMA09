@@ -1,7 +1,7 @@
 
 <h1 style="text-align:center">Hi everbody, I'm Hasan. I'm learning Python.<br>Hallo zusammen, ich bin Hasan. Ich lerne Python.</h1><br><br>
 <h2 style="color:blue">I'm interested in learning and developing all programming languages.<br>Ich bin daran interessiert, alle Programmiersprachen zu lernen und zu entwickeln.</h2><br>
-<img height="100" src="[https://beecrowd.com/wp-content/uploads/2024/04/2022-07-19-Melhores-cursos-de-Python.jpg](https://www.creodive.com.tr/wp-content/uploads/programlama-dilleri-1.jpeg)"/>
+<img height="500" src="https://www.creodive.com.tr/wp-content/uploads/programlama-dilleri-1.jpeg"/>
 
 <h2 style="color:blue">Vektörel Academy supports me in this learning journey.<br>Die Vektörel Akademie unterstützt mich auf dieser Lernreise.</h2><br><br>
 
