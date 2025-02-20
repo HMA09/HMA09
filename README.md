@@ -6,8 +6,8 @@
 
 <h2 style="color:blue">Vektörel Academy supports me in this learning journey.<br>Die Vektörel Akademie unterstützt mich auf dieser Lernreise.</h2>
 
-<img height="100" src="[https://media.licdn.com/dms/image/v2/D4D0BAQEY2460eUNJVQ/company-logo_200_200/company-logo_200_200/0/1730663399335?e=2147483647&v=beta&t=EP68FaY3M-m8HcT29lKcnxdtqIR6mXtTlR3-Wxbeto8](https://media.licdn.com/dms/image/v2/D4D16AQEARFBKPhHrCQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1730670857683?e=2147483647&v=beta&t=Hhq0IgvqojBGNrdiGErg8uLt1X_kLinzse3WuI6G1rc)"/>
-<p>Hedef uygulama</p>
+<img height="100" src="https://media.licdn.com/dms/image/v2/D4D16AQEARFBKPhHrCQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1730670857683?e=2147483647&v=beta&t=Hhq0IgvqojBGNrdiGErg8uLt1X_kLinzse3WuI6G1rc"/>
+
 <!--
 **HMA09/HMA09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
