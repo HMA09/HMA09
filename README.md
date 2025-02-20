@@ -12,6 +12,8 @@
 - 👯 I’m looking to collaborate on New Project <br>
 - 🤔 I’m looking for help with Python<br>
 - 📫 How to reach me: murat.akkiz@gmail.com</h1>
+<img height="250" src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif"/><br><br>
+
 <!--
 **HMA09/HMA09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
