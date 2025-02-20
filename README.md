@@ -1,6 +1,5 @@
 
-<h1 style="color:red">Hi everbody, I'm Hasan. I'm learning Python.</h1>
-<h1 style="color:red">Hallo zusammen, ich bin Hasan. Ich lerne Python.</h1>
+<h1 style="color:red">Hi everbody, I'm Hasan. I'm learning Python.<br>Hallo zusammen, ich bin Hasan. Ich lerne Python.</h1>
 <h2 style="color:blue">I'm interested in learning and developing all programming languages.</h2>
 <h2 style="color:blue">Ich bin daran interessiert, alle Programmiersprachen zu lernen und zu entwickeln.</h2>
 <h2 style="color:blue">Vektörel Academy supports me in this learning journey.</h2>
